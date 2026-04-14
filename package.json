@@ -1,0 +1,16 @@
+{
+  "name": "cloudassignment4",
+  "version": "1.0.0",
+  "description": "Cloud Assignment 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "22.x"
+  }
+}
